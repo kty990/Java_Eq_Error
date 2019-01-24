@@ -48,7 +48,7 @@ public class Main {
 	public static void askQuestion(int question_number) {
 		getQuestion(question_number);
 		getReply();
-		if(input == answer.get(question_number)) {
+		if(input.equals(answer.get(question_number))) {
 			print("Yay, that is the correct answer!");
 		} else {
 			print("Sorry, the correct answer is: " + answer.get(question_number));
