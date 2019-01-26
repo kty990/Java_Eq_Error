@@ -1,20 +1,11 @@
 package unit1;
 
-//Coding by: Ty Kutcher
 //GUI Design by: #######
 //Project started on: 2019/01/22
 
 import java.util.ArrayList;
 
 public class Main {
-	
-	/**
-	 * Notes:
-	 * 		This class does NOT need a "main" method
-	 * 		This class DOES need a constructor
-	 * 		This class needs ints/doubles
-	 * 		This class needs 2 ArrayLists<String> (One of them for questions, one of them for answers)
-	 */
 	
 	public static boolean active = true; //this is the unit that starts active
 	public static ArrayList<String> questions; 
