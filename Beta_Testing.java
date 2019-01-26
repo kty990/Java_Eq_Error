@@ -1,6 +1,5 @@
 package main;
 
-//Coding by: Ty Kutcher
 //GUI Design by: ####### --Not started yet
 //Project started on: 2019/01/22
 //Saved with encryption UTF-8
