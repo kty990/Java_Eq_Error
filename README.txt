@@ -13,4 +13,6 @@ ERROR 2:
   
   )
   
+  The error log is when I run the "Beta_Testing.java" file. I am getting the arraylists from the "Main.java" class in package "unit1"
+  
 NO MORE ERRORS TO REPORT AT THIS TIME
